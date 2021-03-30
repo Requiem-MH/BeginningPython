@@ -1,7 +1,7 @@
 This program computes a final grade of 475 possible points using the following:
-Homework: 150 possible points
-Exams: 250 possible points
-Recitation: 75 possible points
+-Homework: 150 possible points
+-Exams: 250 possible points
+-Recitation: 75 possible points
 
 The program can be run in the command line using:
 
