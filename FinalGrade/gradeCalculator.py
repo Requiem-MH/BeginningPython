@@ -10,5 +10,5 @@ score = (homework + exam + recitation)
 percent = ((homework + exam + recitation) / TOTAL) * 100
 
 #Display Final Score and Percentage in class
-print("Total points out of 475: ", score)
+print("\nTotal points out of 475: ", score)
 print("Final Percentage: ", int(percent), "%")
