@@ -12,4 +12,4 @@ When run, the program will ask you to seperately enter the three different score
 upon entering the 3rd score, it will use the 3 entered scored to compute a final
 percentage and score out of 475.
 
-![Usage Picture](gradeCalculatorPic.png)
+![Usage Picture](../images/gradeCalculatorDemo.png)
