@@ -1,9 +1,10 @@
-This program computes a final grade of 475 possible points using the following:
+gradeCalculator.py is a command line program that computes a final grade of 475 possible 
+points using the following:
 - Homework: 150 possible points
 - Exams: 250 possible points
 - Recitation: 75 possible points
 
-The program can be run in the command line using:
+The program can be run from the command line with:
 
 ```python gradeCalculator.py```
 
